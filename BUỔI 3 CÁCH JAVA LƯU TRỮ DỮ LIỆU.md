@@ -1,6 +1,11 @@
-# Buổi 3: Cách Java lưu trữ dữ liệu
+# **Buổi 3: Cách Java lưu trữ dữ liệu**
 
-## Cách Java lưu trữ dữ liệu
+## **I.Cách Java lưu trữ dữ liệu**
+Khi một chương trình Java được thực thi, nó sẽ yêu cầu hệ điều hành cấp phát một ***không gian trên bộ nhớ*** để lưu trữ toàn bộ dữ liệu và thông tin của nó.
+
+Sau đó, nó sẽ chia vùng không gian đó thành 4 vùng nhớ (`memory segment`) để lưu trữ.
+
+![Alt text](image.png)
 
 ### 1. Bằng kiểu dữ liệu nguyên thủy
 - Kiểu dữ liệu nguyên thủy là các kiểu dữ liệu đơn giản, không phải là đối tượng, và chỉ chứa một giá trị duy nhất. Các kiểu dữ liệu nguyên thủy trong Java bao gồm: boolean, char, byte, short, int, long, float, và double.
