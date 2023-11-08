@@ -154,7 +154,7 @@ Integer boxedInt = primitiveInt; // Autoboxing: chuyển đổi từ int thành 
 - Ngược lại với boxing, `Unboxing` dùng để chuyển kiểu dữ liệu đối tượng về kiểu dữ liệu nguyên thủy.
 ```java
     Integer primitiveInt = 42;
-    int boxedInt = primitiveInt; // Autoboxing: chuyển đổi từ int thành Integer
+    int boxedInt = primitiveInt; // Unboxing: chuyển đổi từ Integer thành int
 
 ```
 ## **II. CÁC PHƯƠNG THỨC KHỞi TẠO TRONG JAVA**
