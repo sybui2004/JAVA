@@ -227,4 +227,5 @@ compile time: là thời điểm source code đang được compile
 Thông thường run time và compile time được nhắc tới khi nói tới lỗi. Lỗi run time tức là lỗi khi chạy mới thấy, tức lỗi logic. Lỗi compile time là lỗi compile là thấy ngay, tức là lỗi cú pháp.
 
 Khác nhau giữa Overloading và Overriding
+
 ![Alt text](https://github.com/sybui2004/JAVA/blob/main/Anh2.png)
